@@ -15,10 +15,10 @@
   <img src="https://picperf.io/https://laravelnews.s3.amazonaws.com/images/laravel-featured.png" width="100" height="auto">
 </p>
 
-<div style="display: flex; border: 5px solid #182945; padding: 10px;">
-  <div style="padding: 40px 50px; font-size: 14px;">🔭 I'm currently working on developing innovative solutions for our new product line</div>
-  <div style="padding: 40px 50px; font-size: 14px;">🌱 I’m currently learning Deep Learning</div>
-  <div style="padding: 40px 50px; font-size: 14px;">🤔 I’m looking for help with open source projects</div>
-  <div style="padding: 40px 50px; font-size: 14px;">💬 Just say Hello</div>
-  <div style="padding: 40px 50px; font-size: 14px;">📫 How to reach me: tahasenipek@gmail.com</div>
+<div>
+  <div>🔭 I'm currently working on developing innovative solutions for our new product line</div>
+  <div>🌱 I’m currently learning Deep Learning</div>
+  <div>🤔 I’m looking for help with open source projects</div>
+  <div>💬 Just say Hello</div>
+  <div>📫 How to reach me: tahasenipek@gmail.com</div>
 </div>
