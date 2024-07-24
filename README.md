@@ -25,4 +25,4 @@
   <div>📫 How to reach me: tahasenipek@gmail.com</div>
 </div>
 
- (https://github-readme-stats.vercel.app/api/top-langs/?username=tahasenipek&layout=compact)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahasenipek&show_icons=true&locale=en&layout=compact" alt="tahasenipek" /></p> </div>
