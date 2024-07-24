@@ -17,7 +17,7 @@
   <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" width="100" height="auto">
 </p>
 
-<div>
+<div align="center">
   <div>🔭 I'm currently working on developing innovative solutions for our new product line</div>
   <div>🌱 I’m currently learning Deep Learning</div>
   <div>🤔 I’m looking for help with open source projects</div>
@@ -25,4 +25,7 @@
   <div>📫 How to reach me: tahasenipek@gmail.com</div>
 </div>
 
+<div align="center">
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahasenipek&layout=compact)](https://github.com/tahasenipek/github-readme-stats)
+  
+</div>
