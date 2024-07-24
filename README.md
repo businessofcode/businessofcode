@@ -25,4 +25,7 @@
   <div>📫 How to reach me: tahasenipek@gmail.com</div>
 </div>
 
-!(https://github-readme-stats.vercel.app/api?username=tahasenipek&count_private=true)
+<div>
+  
+[![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=tahasenipek)](https://github.com/tahasenipek/github-readme-stats)
+</div>
