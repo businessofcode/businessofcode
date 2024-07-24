@@ -13,6 +13,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="80" height="80">
   <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" width="100" height="auto">
   <img src="https://picperf.io/https://laravelnews.s3.amazonaws.com/images/laravel-featured.png" width="100" height="auto">
+  <img src="https://logos-world.net/wp-content/uploads/2023/08/React-Symbol.png" width="100" height="auto">
+  <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" width="100" height="auto">
 </p>
 
 <div>
