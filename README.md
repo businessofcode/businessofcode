@@ -26,12 +26,10 @@
 </div>
 
 <div>
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahasenipek&layout=compact)](https://github.com/tahasenipek/github-readme-stats)
 </div>
 
 <div>
-<br>
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tahasenipek)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
