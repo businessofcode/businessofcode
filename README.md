@@ -17,7 +17,7 @@
   <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" width="100" height="auto">
 </p>
 
-<div align="center">
+<div>
   <div>🔭 I'm currently working on developing innovative solutions for our new product line</div>
   <div>🌱 I’m currently learning Deep Learning</div>
   <div>🤔 I’m looking for help with open source projects</div>
