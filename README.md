@@ -27,5 +27,9 @@
 
 <div>
   
-[![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=tahasenipek)](https://github.com/tahasenipek/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahasenipek&layout=compact)](https://github.com/tahasenipek/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tahasenipek)](https://github.com/tahasenipek/github-readme-stats)
+
+
+
 </div>
